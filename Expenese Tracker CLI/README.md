@@ -21,6 +21,7 @@ Built entirely with Python, this project demonstrates core software engineering 
  ┗ 📂 Expense Tracker CLI
    ┣ 📜 expense_CLI.py      # Main application code
    ┗ 📜 README.md           # Project documentation
+```
 
 *🛠️ Prerequisites*
 Python 3.x installed on your system.
