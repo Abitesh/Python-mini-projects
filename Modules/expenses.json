@@ -1,7 +1,23 @@
 {
-    "id": "12212",
-    "date": "07-05-26",
-    "category": "N-veg",
-    "amount": "100₹",
-    "description" : "It is juicy non veg which is not dry type"
+    "d325d69b": {
+        "id": "d325d69b",
+        "date": "27-05-26",
+        "category": "non veg",
+        "amount": 324,
+        "description": "it is"
+    },
+    "62eb7ab5": {
+        "id": "62eb7ab5",
+        "date": "27-05-26",
+        "category": "veg",
+        "amount": 545,
+        "description": "daity p de f"
+    },
+    "cb804b8d": {
+        "id": "cb804b8d",
+        "date": "27-05-26",
+        "category": "veg agian",
+        "amount": 231,
+        "description": "new one"
+    }
 }
